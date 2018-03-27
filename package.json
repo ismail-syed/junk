@@ -5,9 +5,6 @@
   "repository": "git@github.com:ismail-syed/junk.git",
   "author": "Ismail Syed <ismail.syed@shopify.com>",
   "license": "MIT",
-  "publishConfig": {
-    "access": "restricted"
-  },
   "dependencies": {
     "preact": "^8.2.7"
   }
