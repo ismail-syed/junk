@@ -1,13 +1,12 @@
 {
-  "name": "junk-test-foobar",
+  "name": "@shopify/junk-test-foobar",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:ismail-syed/junk.git",
   "author": "Ismail Syed <ismail.syed@shopify.com>",
   "license": "MIT",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "dependencies": {
     "preact": "^8.2.7"
