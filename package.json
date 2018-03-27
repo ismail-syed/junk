@@ -1,12 +1,12 @@
 {
-  "name": "@shopify/junk-test-foobar",
+  "name": "junk-test-foobar",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:ismail-syed/junk.git",
   "author": "Ismail Syed <ismail.syed@shopify.com>",
   "license": "MIT",
   "publishConfig": {
-    "access": "private"
+    "access": "restricted"
   },
   "dependencies": {
     "preact": "^8.2.7"
