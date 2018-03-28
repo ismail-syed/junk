@@ -9,6 +9,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@shopify/pc-test": "^1.0.0",
     "preact": "^8.2.7"
   }
 }
