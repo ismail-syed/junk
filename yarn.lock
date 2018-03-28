@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@shopify/pc-test@^1.0.0":
+  version "1.0.0"
+  resolved "https://packages.shopify.io/shopify/node/npm/@shopify/pc-test/-/pc-test-1.0.0.tgz#5cb6584e60cb3b4e963ea7ae1c000b9fab4f498d"
+
 preact@^8.2.7:
   version "8.2.7"
   resolved "https://registry.yarnpkg.com/preact/-/preact-8.2.7.tgz#316249fb678cd5e93e7cee63cea7bfb62dbd6814"
