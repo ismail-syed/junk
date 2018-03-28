@@ -6,7 +6,7 @@
   "author": "Ismail Syed <ismail.syed@shopify.com>",
   "license": "MIT",
   "publishConfig": {
-    "access": "restricted"
+    "access": "private"
   },
   "dependencies": {
     "@shopify/pc-test": "^1.0.0",
